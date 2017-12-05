@@ -1,0 +1,39 @@
+a {
+    text-decoration: none;
+}
+    .box{
+        margin: 0 .2rem
+    }
+    .head img{
+        width: 100%;
+        border: none;
+    }
+    .text{
+        font-size: .32rem;
+        text-align: center;
+    }
+    .text-area{
+        text-align: center;
+    }
+    .btn-groups {
+    text-align: center;
+}
+    .btn-khaki {
+	background: #8d9453;
+}
+.btn-green {
+	background: #5d9412;
+}
+.btn-groups .btn + .btn {
+    margin-left: .2rem;
+}
+.btn-groups .btn {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: .24rem;
+	color: #fff;
+	height: .46rem;
+	line-height: .46rem;
+	width: 1.6rem;
+	text-align: center;
+}
